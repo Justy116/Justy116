@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm a front end developer
 
-#### Lenguage and tools: ![alt text](file:///C:/Users/giust/AppData/Local/Temp/Rar$DRa15644.37504/icons8-html-5-50.png)
+
 
 <!--
 **Justy116/Justy116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
