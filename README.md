@@ -1,5 +1,5 @@
-# Hi there 👋
-### I'm a front end developer
+# Hi, I'm Giustino 👋
+
 
 
 
