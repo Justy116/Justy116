@@ -1,5 +1,4 @@
-# Hi, I'm Giustino 👋
-
+#  Hi, I'm Giustino and I'm a front end developer 👋
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justy116)](https://github.com/anuraghazra/github-readme-stats)
