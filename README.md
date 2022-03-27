@@ -5,7 +5,7 @@
 I'm Giustino, an 18-year-old boy living in Italy, always fascinated by the world of programming, after finishing high school I decided to start studying to get to know this sector, so I can help you with web programming.
 
 ## Skills and tools:
-💻 HTML / CSS / JS / JQUERY / VUE JS / WORDPRESS
+💻 HTML / CSS / JS / JQUERY / REACT / WORDPRESS
 
 
 - 🔭 I’m currently working on this page. 
