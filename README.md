@@ -1,6 +1,6 @@
 ### Hi there 👋, Giustino
 #### Front end developer
-![Front end developer](https://dw3i9sxi97owk.cloudfront.net/uploads/covers/thumbs/ced25e08446690e618cbcd2e2ef0dab7_400x125.png)
+![Front end developer]
 
 
 ## Skills and tools:
