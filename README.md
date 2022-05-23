@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Front end developer
-![Front end developer] ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ## Skills and tools:
