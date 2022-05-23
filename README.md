@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Front end developer
-![Front end developer](https://dw3i9sxi97owk.cloudfront.net/uploads/covers/thumbs/ced25e08446690e618cbcd2e2ef0dab7_400x125.png)
+![Front end developer] ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ## Skills and tools:
