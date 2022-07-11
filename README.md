@@ -4,7 +4,7 @@
 
 
 ## Skills and tools:
-💻 HTML / CSS / JS / JQUERY / REACT / WORDPRESS
+💻 HTML / CSS / JS / JQUERY / REACT / VUE / WORDPRESS
 
 
 - 🔭 I’m currently working on this page. 
