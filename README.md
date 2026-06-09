@@ -101,9 +101,8 @@ AI tools can significantly accelerate development, but engineering judgment rema
 ## 📫 Contact
 
 - 📍 Naples, Italy
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: your-linkedin
-- 🌐 Portfolio: your-portfolio
+- 📧 Email: giustinogragnaniello16@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/giustino-gragnaniello-b337251b9
 
 ---
 
